@@ -26,7 +26,15 @@ Here are the main questions they’d like to answer:
 <ul><li>Powerpoint</li></ul>
 <ul><li>Excel</li></ul>
 
-Data Sets
+## Data Sets
+
+## Additional Links
+
+[Interactive Tableu Visualizations ](https://public.tableau.com/app/profile/ana.maria.tiscareno.contreras/viz/Task3_10_RockbusterStealthDatabaseAnalysis/FINAL)
+
+
+
+
 
 
 
